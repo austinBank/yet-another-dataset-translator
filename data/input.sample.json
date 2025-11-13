@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Auf Wiedersehen.",
+    "note": "German farewell example"
+  },
+  {
+    "id": 2,
+    "text": "Bonjour tout le monde",
+    "note": "French greeting example"
+  },
+  {
+    "id": 3,
+    "text": "Hello world",
+    "note": "Already in English and may be skipped depending on threshold"
+  }
+]
