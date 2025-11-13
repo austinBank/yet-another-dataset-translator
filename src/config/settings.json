@@ -1,0 +1,14 @@
+{
+  "api_key": "",
+  "target_language": "en",
+  "field_patterns_to_translate": [
+    "*text",
+    "*description",
+    "*title"
+  ],
+  "detect_language_threshold": 0.7,
+  "output_dataset_id": "local_output_dataset",
+  "translation_marker_field": "wasTranslated",
+  "original_value_field_prefix": "original_",
+  "mock_mode": true
+}
