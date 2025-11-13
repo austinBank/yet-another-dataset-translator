@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "[en] Auf Wiedersehen.",
+    "note": "German farewell example",
+    "original_text": "Auf Wiedersehen.",
+    "wasTranslated": true
+  },
+  {
+    "id": 2,
+    "text": "[en] Bonjour tout le monde",
+    "note": "French greeting example",
+    "original_text": "Bonjour tout le monde",
+    "wasTranslated": true
+  },
+  {
+    "id": 3,
+    "text": "Hello world",
+    "note": "Already in English and may be skipped depending on threshold",
+    "wasTranslated": false
+  }
+]
